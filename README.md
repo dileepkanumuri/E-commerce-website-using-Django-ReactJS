@@ -10,4 +10,5 @@ We will start by installing python and a virtual environment.
 After that we will install Django and will work on backend. We are using a scalable approach of dividing project into multiple Django apps.
 Further we will create API from our backend so that in future you can modify front end without any issues. Django development is very fast and you will quickly realize it.
 
+Here is the mindmap execution followed for this project
 ![API_DJANGO](https://user-images.githubusercontent.com/45831222/187628105-79316b95-0f30-45c2-a7dd-19ad103d8d8c.png)

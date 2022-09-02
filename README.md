@@ -12,3 +12,5 @@ Further we will create API from our backend so that in future you can modify fro
 
 Here is the mindmap execution followed for this project
 ![API_DJANGO](https://user-images.githubusercontent.com/45831222/187628105-79316b95-0f30-45c2-a7dd-19ad103d8d8c.png)
+
+For the detailed mindmap check the

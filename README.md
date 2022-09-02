@@ -1,5 +1,6 @@
 
 
+
 # Building an E-commerce-website-using-Django-ReactJS
 
 Hi there, I'm building this website using full stack web development with Django 4 as backend and
@@ -14,3 +15,4 @@ Here is the mindmap execution followed for this project
 ![API_DJANGO](https://user-images.githubusercontent.com/45831222/187628105-79316b95-0f30-45c2-a7dd-19ad103d8d8c.png)
 
 For the detailed mindmap check the
+[API_DJANGO.pdf](https://github.com/dileepkanumuri/E-commerce-website-using-Django-ReactJS/files/9475714/API_DJANGO.pdf)
